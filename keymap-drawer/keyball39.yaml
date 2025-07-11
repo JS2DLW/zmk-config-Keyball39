@@ -20,7 +20,7 @@ layers:
   - J
   - K
   - L
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:backspace$$', type: backspace}
   - Z
   - X
   - C
@@ -37,7 +37,7 @@ layers:
   - {t: '$$mdi:keyboard-esc$$', h: SNIPE}
   - {t: '$$mdi:keyboard-return$$', h: NUM}
   - {t: Alt+`, h: NUM, s: Alt+~}
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-space$$', h: SYM}
   - {t: '-', s: _}
   NUM:
